@@ -1,21 +1,22 @@
-title:            Site Title
-tagline:          A short tagline
-description:      Describe your website.
+title:            DamianM
+tagline:          Technical Musings
+description:      The musings and essays from Damian Maclennan. Consultant CTO, Agilist, Troublemaker, Dad, Cyclist, Musician
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://damianm.com/
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Damian Maclennan
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "Technologist, Agilist, Musician, Cyclist, Troublemaker, Dad. 
+ Principal Consultant at Readify.."
+  email:          damian@damianm.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
+  twitter: damianm
   facebook:       
-  github:         
+  github: damianmac
   linkedin:       
-  instagram:      
+  instagram: damianmaclennan
   lastfm:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
