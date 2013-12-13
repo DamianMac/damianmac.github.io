@@ -1,7 +1,6 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "Personal homepage and blog of Damian Maclennan."
 image:
   feature: story-bridge.jpg
 ---
