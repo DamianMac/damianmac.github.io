@@ -32,11 +32,11 @@ bing_verify:
 # For external links add external: true
 links:
   - title: About
-    url: /about/
+    url: about/
   - title: Articles
-    url: /articles/
+    url: articles/
   - title: Projects
-    url: /projects/
+    url: projects/
   - title: Readify
     url: http://readify.net/
     external: true
