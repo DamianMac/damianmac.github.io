@@ -5,8 +5,10 @@ title: About Damian Maclennan
 tagline: About Damian Maclennan
 tags: [about, Damian Maclennan]
 modified: 13-12-2013
-image:
-  feature: speaking.jpg
-  credit: Andrew Harcourt
-  creditlink: http://twitter.com/uglybugger
 ---
+
+
+<figure>
+	<img src="/images/speaking.jpg" />
+	<figcaption>Photo courtesy of <a href="http://twitter.com/uglybugger">Andrew Harcourt</a>.</figcaption>
+</figure>
