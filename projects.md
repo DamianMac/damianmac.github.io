@@ -1,3 +1,4 @@
+---
 layout: page
 permalink: /projects/
 title: Some of my current projects
