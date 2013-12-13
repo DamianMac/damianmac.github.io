@@ -15,7 +15,7 @@ I’ve been working at home by myself for a few weeks, it’s mostly going well 
 
 Anyway, recently while on another engagement, a colleague told me about the [Pomodoro technique][1]. Essentially you use a timer to do 25 minute blocks of work where you turn off all interruptions like IM / Email / Twitter, when the timer goes off you give yourself a 5 minute break. Every 4 “pomodoros” you give yourself a longer break. The idea is that 25 minutes gives you enough of that sense of urgency your mind has when under a deadline while giving you a reprieve from it. 
 
-Done properly it’s a lot like a mini Scrum[2]. You commit to what you want to do in your 25 minutes, at the end of that look back at the work and decide what you need to move to the next one.
+Done properly it’s a lot like a mini [Scrum][2]. You commit to what you want to do in your 25 minutes, at the end of that look back at the work and decide what you need to move to the next one.
 
 Then you keep track of how long standard tasks take you, what your interruptions are and how you can work with them. 
 
