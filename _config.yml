@@ -9,7 +9,7 @@ owner:
   name:           Damian Maclennan
   avatar:         red-shoes.jpg
   bio:            "Consulting CTO, Technologist, Agilist, Musician, Cyclist, Troublemaker, Dad. 
- Principal Consultant at Readify.."
+ Principal Consultant at Readify."
   email:          damian@damianm.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: damianm
@@ -35,14 +35,14 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Projects
+    url: /projects/
+  - title: Readify
+    url: http://readify.net/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Australia/Brisbane
 future:      true
 pygments:    true
 markdown:    kramdown
