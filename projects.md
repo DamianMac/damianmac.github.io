@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /projects/
-title: Some of my current projects
-tagline: Some of my current projects
+title: Some of my current personal projects
+tagline: Some of my current personal projects
 tags: [projects, Nimbus, DBUp]
 modified: 12-13-2013
 image:
@@ -19,10 +19,12 @@ image:
 
 I created and run a number of online communities for cyclists. I started [Sydney Cyclist][] in 2007, [Melbourne Cyclist][] came soon after I and launched [Brisbane Cyclist][] a few months after moving to Brisbane in late 2009.
 
+These sites are places to discuss local issues, find riding partners, find help getting around your city, blog or just discuss things with like minded people. They've formed into great communities over the years and many strong offline friendships have been made through them. 
+
   [Nimbus]: https://github.com/damianmac/nimbus
   [MassTransit]: http://masstransit-project.com/
   [NServiceBus]: http://particular.net/
-  [Andrew Harcourt]: www.codingforfunandprofit.com/
+  [Andrew Harcourt]: http://www.codingforfunandprofit.com/
   [Sydney Cyclist]: http://www.sydneycyclist.com/
   [Melbourne Cyclist]: http://www.melbournecyclist.com/
   [Brisbane Cyclist]: http://www.brisbanecyclist.com/
