@@ -2,20 +2,20 @@ title:            DamianM
 tagline:          Technical Musings
 description:      The musings and essays from Damian Maclennan. Consultant CTO, Agilist, Troublemaker, Dad, Cyclist, Musician
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://damianm.com/
+url:              http://damianmac.github.io/
 
 # Owner/author information
 owner:
   name:           Damian Maclennan
-  avatar:         bio-photo.jpg
-  bio:            "Technologist, Agilist, Musician, Cyclist, Troublemaker, Dad. 
+  avatar:         red-shoes.jpg
+  bio:            "Consulting CTO, Technologist, Agilist, Musician, Cyclist, Troublemaker, Dad. 
  Principal Consultant at Readify.."
   email:          damian@damianm.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: damianm
   facebook:       
   github: damianmac
-  linkedin:       
+  linkedin: damianmaclennan
   instagram: damianmaclennan
   lastfm:         
   tumblr:         
