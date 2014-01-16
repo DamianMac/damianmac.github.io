@@ -1,3 +1,13 @@
+---
+layout: post
+title: The Speed of Innovation
+description: "After spending time working with a lot of companies building software I have a lot of ideas on what makes the good ones successful and it all comes down to how fast they can innovate. This is going to be a major theme here for a while."
+modified: 2014-01-16
+category: articles
+tags: [speed of innovation]
+---
+
+
 Forbes magazine published an [article in the latter part of 2012 about the top strategic issues for CIOs in 2013](http://www.forbes.com/sites/oracle/2012/09/28/the-top-10-strategic-cio-issues-for-2013/), and these issues remain high on the list today. 
 
 Organisations need to be investing in or at least having understanding and strategies around Big Data and analytics, cloud, social media and mobility etc. to remain competitive both now and in the future. 
