@@ -22,7 +22,7 @@ When Azure first rolled out there was a Queue service with a REST based Endpoint
 
 But what was it like to use ? Nobody seemed to have any stories. 
 
-So we went looking for things built on it. Microsoft has a library called [CloudFX](http://msdn.microsoft.com/en-us/library/windowsazure/jj136818.aspx) but it left a lot of the wiring up of the bus to the developer. NServiceBus had a provider to run on Azure as a transport, MassTransit had a community contributed (but not core) provider for it too, but neither of those options appealed. What we didlike was the way that in the NServiceBus and MassTransit style of architecture, the code to handle a message on the bus was as simple as writing a small class that took the message type as in input and everything else gets taken care of. 
+So we went looking for things built on it. Microsoft has a library called [CloudFX](http://msdn.microsoft.com/en-us/library/windowsazure/jj136818.aspx) but it left a lot of the wiring up of the bus to the developer. NServiceBus had a provider to run on Azure as a transport, MassTransit had a community contributed (but not core) provider for it too, but neither of those options appealed. What we did like was the way that in the NServiceBus and MassTransit style of architecture, the code to handle a message on the bus was as simple as writing a small class that took the message type as in input and everything else gets taken care of. 
 
 So [Andrew Harcourt](http://uglybugger.org/) and I decided to write our own and [Nimbus](https://github.com/damianmac/nimbus) was born.
 
