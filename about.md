@@ -22,7 +22,7 @@ I am a technologist, cyclist, musician and father of two. I currently live in Br
 Professional
 ------------
 
-I’ve been made technology my career for over twelve years. I’ve spent a lot of time working in web development agencies, a Solutions Architect working in the digial media management and content delivery field, a stint in the non profit world, independant consultant and currently a Principal Consultant with [Readify](http://www.readify.net/).
+I’ve been made technology my career for over fifteen years. I’ve spent a lot of time working in web development agencies, as a Solutions Architect working in the digial media management and content delivery field, a stint in the non profit world, independant consultant and currently a Principal Consultant with [Readify](http://www.readify.net/).
 
 My work currently involves a lot of technical and architecture strategy at a CIO and CTO level, I also do a lot of work with teams. Technical mentoring, agile coaching and development process and practice consulting. As well as the important human aspects of software development I work a lot on the engineering practices required to make agile work well such as TDD, continuous integration and deployment and automation. 
 
