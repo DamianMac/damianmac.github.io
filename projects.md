@@ -6,7 +6,7 @@ tagline: Some of my current personal projects
 tags: [projects, Nimbus, DBUp]
 modified: 12-13-2013
 image:
-  feature: texture-feature-02.jpg
+  feature: texture-feature-01.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
