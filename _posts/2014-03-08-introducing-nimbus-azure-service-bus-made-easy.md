@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Nimbus - Azure Service Bus made easy
-description: "Nimbus is an easy to use API for the Azure Service Bus to make the development of Microservice and distributed applications easy.."
+description: "Nimbus is an easy to use API for the Azure Service Bus to make the development of Microservice and distributed applications easy."
 modified: 2014-03-08
 category: articles
 tags: [nimbus]
