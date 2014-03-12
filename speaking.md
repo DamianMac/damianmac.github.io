@@ -20,7 +20,7 @@ Get in touch if you'd like me to speak at your User Group, Conference or Company
 
 
 ### 29 March 2014 ###
-[Global Windows Azure Bootcamp](http://brisbane-gwab.azurewebsites.net/) - Brisbane
+[Global Windows Azure Bootcamp](http://gwab.brisbaneazure.com/) - Brisbane
 
 *Architecting for the Cloud*
 
