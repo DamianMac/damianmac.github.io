@@ -27,23 +27,32 @@ At this point though we're not prepared to give up on the idea, so we (incorrect
 
 Of course you know where [it goes from there](http://en.wikipedia.org/wiki/Broken_windows_theory).
 
-Of course these frameworks never survive "first contact with the enemy", and that's because they were developed in isolation and in blissful ignorance of what the end user or customer needs. They weren't built with the features in mind. They were built with the developers interests in mind, with the developer as a customer.
+These frameworks never survive "first contact with the enemy" s because they were developed in isolation and in blissful ignorance of what the end user or customer needs. They weren't built with the features in mind. They were built with the developers interests in mind, with the developer as a customer.
 
-Now, this actually makes a lot of sense to me (and I'd be lying if I said I'd not fallen into the same trap myself earlier in my career). It's because we all like to have certainty and control of our own environment. In an environment where the people building the software have no direct contact with the end customers because it requires "people skills" so we've given the job to Business Analysts, but those "requirements" are taking forever to be "signed off". So abstracting all the grunt work and building something that can accept "business rules" at some later time and make them easy has a great appeal.
+Now, this actually makes a lot of sense to me (and I'd be lying if I said I'd not fallen into the same trap myself earlier in my career). It's because we all like to have certainty and control of our own environment. 
+If your environment is one where the people building the software have no direct contact with the end customers because it requires "people skills", and we've given the job to Business Analysts, and those "requirements" are taking forever to be "signed off", abstracting all the grunt work and building something that can accept "business rules" at some later time and make them easy has a great appeal.
 
 The problem is it just doesn't work.
 
 It doesn't work because good software isn't easy and if there were a cookie cutter, template approach to building it, then that would have been done years ago by some tool vendor and we'd all be out of jobs. So it's somewhat egotistical to think that your "senior developer" is going to be the one to crack the problem. 
 
-So when we have our framework and it actually has to deliver on some of the features we actually want to see, it's not a pleasant or smooth experience and compromises are made. The problem with these frameworks are that they are designed from the developers perpsective, rather than their real world use. Inside out rather from the outside in. 
+So when we have our framework and it actually has to deliver on some of the features we actually want to see, it's not a pleasant or smooth experience and compromises are made. The problem with these frameworks is that they are designed from the developers perpsective, rather than their real world use. Inside out rather from the outside in. 
 
 Which is not to say that I don't believe in reusing common components across your applications.
 
 Far from it! 
 
 
-Reuse is great, things just need to ne useful first. Reusable components evolve from observing common patterns your applicaton actually has, encapsulating those patterns and spinning them out into components and libraries. 
+Reuse is great, things just need to be useful first. Reusable components evolve from observing common patterns your applicaton actually has, encapsulating those patterns and spinning them out into components and libraries. 
 
 Good software frameworks evolve from good software, not the other way around.
 
-They also typically are smaller units, libraries and components that work in a loosely coupled way, the way good software is designed to. They are easy to pull out of an application because of this. With some sort of internal package management system, whether that be NuGet, or Maven or Gem or whatever your flavour is you can make these libraries easy to pull into your apps and version. 
+They also typically are smaller units. They are libraries and components that work in a loosely coupled way, the way good software is designed to. They are easy to pull out of an application because of this. With some sort of internal package management system, whether that be NuGet, or Maven or Gem or whatever your flavour is you can make these libraries easy to pull into your apps and version. 
+
+So the next time you hear about a need to build a framework before getting started on a project, you need to look at a couple of other options.
+
+1. Is this being built because your team can't actually get with the job because they can't get near the people who's problem they are trying to solve ? Then fix that.
+2. Is this being built because your organisation won't allow software to be deployed and for iteration to happen ? Then fix that.
+3. Is this motivation because you think you can find a bunch of cheap devs and expect good software to be built ? Definitely fix that one, it's not going to work.
+
+The framework conversation is likely a symptom of a larger problem in the organisation, if you hear it, you need to look for the reasons that the team can't get on with the job of shipping good software. You never know what you might find.
