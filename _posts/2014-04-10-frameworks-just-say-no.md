@@ -51,7 +51,7 @@ They also typically are smaller units. They are libraries and components that wo
 
 So the next time you hear about a need to build a framework before getting started on a project, you need to look at a couple of other options.
 
-1. Is this being built because your team can't actually get with the job because they can't get near the people who's problem they are trying to solve ? Then fix that.
+1. Is this being built because your team can't actually get with the job because they can't get near the people whose problem they are trying to solve ? Then fix that.
 2. Is this being built because your organisation won't allow software to be deployed and for iteration to happen ? Then fix that.
 3. Is this motivation because you think you can find a bunch of cheap devs and expect good software to be built ? Definitely fix that one, it's not going to work.
 
