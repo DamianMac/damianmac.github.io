@@ -2,7 +2,7 @@
 layout: post
 title: Frameworks. Just say NO!
 description: "Some of the most dangerous words I hear in my consulting travels are 'we're building a framework'. It's a compelling idea but it never works out well. Reuse of components is good, but you need them to be useful before they can be reused"
-modified: 2014-03-25
+modified: 2014-04-10
 category: articles
 tags: [agile]
 ---
