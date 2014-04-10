@@ -13,7 +13,7 @@ It goes something like this.
 
 "What I want to do is build a framework. It will let us reuse all the common things we need to do, plus when 'the business' change requirements it will be easy for us to plug in those new rules and have the application cope".
 
-![](../postimages/itsatrap.jpg)
+![](/postimages/itsatrap.jpg)
 
 *The admiral has it right!*
 
