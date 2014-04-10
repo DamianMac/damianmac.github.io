@@ -17,7 +17,7 @@ It goes something like this.
 
 *The admiral has it right!*
 
-> As an aside, there's another, far more insidious motivation that happens place in environments where contract developers are common. That is "if we abstract all the hard stuff, then we can hire lower quality devs and still deliver applications". I'm sure this sounds like a good idea to somebody.
+> As an aside, there's another, far more insidious motivation that happens in environments where contract developers are common. That is "if we abstract all the hard stuff, then we can hire lower quality devs and still deliver applications". I'm sure this sounds like a good idea to somebody.
 
 How it unfolds after that is that the developer(s) responsible have permission to "go dark" for 6 months while working on their wonderful framework that will solve all the companies problems and have all sorts of wonderful ROI.
 
