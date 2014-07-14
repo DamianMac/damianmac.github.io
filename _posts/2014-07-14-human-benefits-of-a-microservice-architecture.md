@@ -4,7 +4,7 @@ title: The human benefits of a microservice architecture
 description: "It's easy to be agile with a small codebase, it becomes much harder with a large one. The more time I spend around software development teams implementing a microservice architecture, the more I see just how agile an approach it can be because rather than one big codebase, we have many smaller ones."
 modified: 2014-07-14
 category: articles
-tags: [agile], [microservices], [speed-of-innovation]
+tags: [microservices]
 ---
 
 
