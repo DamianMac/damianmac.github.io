@@ -13,7 +13,7 @@ Without going into a full blown definition, because there are already several co
 
 It's a style brought into popularity by the bigger internet companies with large scaling needs, [Netflix](https://www.netflix.com/) is a popularly cited example. A microservice architecture allows applications to scale without a need for a single, locking database. It also means individual pieces can be scaled and load balanced in a granular way, data can be stored in many places in formats and structures optimised for fast querying and it can be all kept (eventually consistent) by way of background processses acting on events raised throughout the system.
 
-However it's the more human benfits of microservices which I want to discuss in this post.
+However it's the more human benefits of microservices which I want to discuss in this post.
 
 
 ## Agile Spaghetti ##
@@ -61,4 +61,4 @@ So in my experience, an architecture which is broken up into small, nicely struc
 
 Microservices are not really a new concept, some people argue that they are simply "SOA done right" before SOA was hijacked by Enterprise Service Bus vendors which sold expensive middleware that promised agility but in reality usually eventuates in the exact opposite. 
 
-However we're curently seeing the rise of this style of architecture in companies using it very successfully to grow and adapt quickly and succeed in the marketplace. Your company may not have the scaling needs of Amazon, Netflix or Spotify, but the same principles can be adopted and can be used to give you an edge in the market.
+However we're currently seeing the rise of this style of architecture in companies using it very successfully to grow and adapt quickly and succeed in the marketplace. Your company may not have the scaling needs of Amazon, Netflix or Spotify, but the same principles can be adopted and can be used to give you an edge in the market.
