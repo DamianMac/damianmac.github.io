@@ -26,18 +26,15 @@ I am a technologist, cyclist, musician and father of two. I currently live in Br
 Professional
 ------------
 
-I’ve been made technology my career for over fifteen years. I’ve spent a lot of time working in web development agencies, as a Solutions Architect working in the digial media management and content delivery field, a stint in the non profit world, independant consultant and currently a Principal Consultant with [Readify](http://www.readify.net/).
+I’ve been made technology my career for over fifteen years. I’ve spent a lot of time working in web development agencies, as a Solutions Architect working in the digial media management and content delivery field, a stint in the non profit world, independant consultant and nearly 6 years as a Principal Consultant with [Readify](http://www.readify.net/).
 
-My work currently involves a lot of technical and architecture strategy at a CIO and CTO level. I also do a lot of work with teams such as technical mentoring, agile coaching and development process and practice consulting. As well as the important human aspects of software development I work a lot on the engineering practices required to make agile work well such as TDD, continuous integration and deployment and automation. 
+I've recently taken on the role as CTO with [Octopus Deploy](http://octopusdeploy.com/) to help grow the product and the team behind it.
+ 
 
 Getting in Touch
 -------
 
 I can be found all over the web, here are a couple of places.
-
-<a href="http://readify.net/"><img src="/images/readify_logo.jpg" border="0" /></a>
-
-I'm available for technical strategy, architecture consulting and guidance, agile training and team mentoring, [contact Readify](http://readify.net/contact-us) if you'd like to get in touch to discuss this.
 
 <a href="http://www.twitter.com/DamianM"><img src="http://twitter-badges.s3.amazonaws.com/follow_me-b.png" alt="Follow DamianM on Twitter"/></a>
 
