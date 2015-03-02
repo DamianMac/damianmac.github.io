@@ -7,6 +7,9 @@ category: articles
 tags: [octopus-deploy]
 ---
 
+<div style="float: right; margin: 30px; margin-top: 0;" >
+	<img src="/images/octopus.png" alt="Octopus Deploy Logo" />
+</div>
 
 This is somewhat old news now, but I felt I should at least write something about it.
 
