@@ -7,6 +7,7 @@ tags: [about, Damian Maclennan]
 modified: 13-12-2013
 image:
   feature: brisbane-river.jpg
+  credit: Brisbane River
 ---
 
 
