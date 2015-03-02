@@ -22,8 +22,6 @@ image:
 
 </div>
 
-<h2>Welcome!</h2>
-
 
 Thanks for stopping by!
 
@@ -45,7 +43,7 @@ In 2014 I took on the role as CTO with [Octopus Deploy](http://octopusdeploy.com
 Getting in Touch
 -------
 
-I can be found all over the web, the social icons on the left are a good start. GitHub for the code, Linked in for the professional networking, Twitter for the sorts of random that Twitter is perfect for and Instagram is mainly pictures of bikes, kids and coffees (not necessarily in that order, but sometimes!)
+I can be found all over the web, the social icons on the left are a good start. GitHub for the code, Linkedin for the professional networking, Twitter for the sorts of random that Twitter is perfect for and Instagram is mainly pictures of bikes, kids and coffees (not necessarily in that order, but sometimes!)
 
 If none of those options are right. You can always send an email to blog at damianm.com
 

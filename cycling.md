@@ -6,9 +6,7 @@ tagline: A bit about my cycling sites
 tags: [cycling, Sydney Cyclist, Melbourne Cyclist, Brisbane Cyclist, Bike Racing]
 modified: 12-13-2013
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: mailmans-track.jpg
 ---
 
 
