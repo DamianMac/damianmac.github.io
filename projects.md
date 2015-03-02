@@ -6,9 +6,8 @@ tagline: Some of my current personal projects
 tags: [projects, Nimbus, DBUp]
 modified: 12-13-2013
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: beetle-street-art-melbourne.jpg
+  credit: Street Art in Melbourne
 ---
 
 # Nimbus
