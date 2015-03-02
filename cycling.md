@@ -7,7 +7,7 @@ tags: [cycling, Sydney Cyclist, Melbourne Cyclist, Brisbane Cyclist, Bike Racing
 modified: 12-13-2013
 image:
   feature: mailmans-track.jpg
-  credit: Mailman's Track Brisbane
+  caption: Mailman's Track Brisbane
 ---
 
 

@@ -7,7 +7,7 @@ tags: [projects, Nimbus, DBUp]
 modified: 12-13-2013
 image:
   feature: beetle-street-art-melbourne.jpg
-  credit: Street Art in Melbourne
+  caption: Street Art in Melbourne
 ---
 
 # Nimbus

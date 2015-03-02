@@ -1,7 +1,7 @@
 ---
 layout: home
-description: "The musings and essays from Damian Maclennan. Consultant CTO, Agilist, Troublemaker, Dad, Cyclist, Musician."
+description: "The musings and essays from Damian Maclennan. CTO @ Octopus Deploy, Agilist, Troublemaker, Dad, Cyclist, Musician."
 image:
   feature: story-bridge.jpg
-  credit: Story Bridge Brisbane
+  caption: Story Bridge Brisbane
 ---
