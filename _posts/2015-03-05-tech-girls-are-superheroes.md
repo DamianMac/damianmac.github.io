@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech Girls are Superheroes
-description: "Here's a little story of something that took place is my house recently, something that took me a little by surprise. It's a story of how positive role models can inspire girls to want to learn more about technology. It's a little different to what I usually write about, but I'd like you to indulge me."
+description: "Here's a little story of something that took place is my house recently, something that took me a little by surprise. It's a story of how positive role models can inspire girls to want to learn more about technology. It's a little different to what I usually write about, but something I feel is important."
 modified: 2015-03-05
 category: articles
 tags: [tech-girls]
@@ -12,7 +12,7 @@ tags: [tech-girls]
 </div>
 
 
-Here's a little story of something that took place is my house recently, something that took me a little by surprise. It's a story of how positive role models can inspire girls to want to learn more about technology. It's a little different to what I usually write about, but I'd like you to indulge me.
+Here's a little story of something that took place is my house recently, something that took me a little by surprise. It's a story of how positive role models can inspire girls to want to learn more about technology. It's a little different to what I usually write about, but something I feel is important.
 
 ## Teaching kids to code ##
 
