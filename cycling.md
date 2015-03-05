@@ -12,7 +12,7 @@ image:
 
 
 <div style="float: right; margin: 30px; margin-top: 0;" >
-<img alt="Damian Maclennan" src="/images/tcr-go-fast.jpg" />
+<img alt="My bike" src="/images/tcr-go-fast.jpg" />
 </div>
  
 
