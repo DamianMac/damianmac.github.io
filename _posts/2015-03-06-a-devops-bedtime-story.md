@@ -70,6 +70,10 @@ An automation script or tool will show you exactly what is going to happen, and 
 
 **Finally, I ask:** "What is the goal of your processes ? To have more paperwork, or to have a repeatable, audited set of steps that are tested many times ?".
 
+An automated, repeatable and audited process beats a manual one every time. Automation is based on reality, what will happen and what did happen. Automation will find the inconsistencies and surface them, and force you to weed them out of your environments. No matter how careful you think you are, having humans in a process like this will always lead to mistakes, and they will never be as efficient at it. 
+
+If you do want to [be more agile](/articles/doing-agile-software-development), you need to be able to iterate more quickly, and doing that means more time spent deploying. So you need to learn these lessons and put them into place.
+
 ## My gift to you ##
 
 If you find yourself having to fight the good fight introducing automation as part of your work, I hope this gives you a couple of talking points you can use. I'd love to hear if it helps!
