@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A DevOps bedtime story
-description: "A cautionary tale of human error, overblown process and some lessons you can take from it."
+description: "An automated, repeatable and audited process beats a manual one every time. A cautionary tale of human error, overblown process and some lessons you can take from it."
 modified: 2015-03-06
 category: articles
 tags: [devops]
