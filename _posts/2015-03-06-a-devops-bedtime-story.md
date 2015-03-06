@@ -10,11 +10,17 @@ tags: [devops]
 
 A few years ago I was consulting inside a government department, I won't say who or why, but I had the opportunity to witness the following take place.
 
-This department had a very typical government process. Big releases were done quarterly, everything was released in one big hit because all the dependencies were intertwined. A release committee was needed to decide what would end up in the release and what wouldn't. Source code was branched. The development team handed a "release" to an operations team who would deploy it into a test environment with the help of a large word document. Then the test team would test it and generally there was a bit of back and forth. Eventually the ops team would deploy to production. These deployments were a big deal of course, involving out of hours work, documented mitigation and rollback plans and lots of signoff.
+This department had a very typical government process. Big releases were done quarterly, everything was released in one big hit because all the dependencies were intertwined. A release committee was needed to decide what would end up in the release and what wouldn't. Source code was branched en-masse. The development team handed a "release" to an operations team who would deploy it into a test environment with the help of a large Word document. The test team would test it and generally there was a bit of back and forth over what was and wasn't a high severity defect.
 
-It was pretty standard for government, everybody there thought they were doing a great job, they believed they ticked all the [ITIL](http://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library) boxes so the management were happy and nobody worried about the little details like the fact that what was delivered never really worked well. They all put it down to poor requirements specified by the "customer", and ignored the fact that the time frame for being asked for something and the time it was delivered was many many months.
+Eventually the ops team would deploy to production. These deployments were a big deal of course, involving out of hours work, documented mitigation and rollback plans and lots of signoff.
 
-I was essentially labelled a dangerous heretic in that place because I suggested that so much time was being spent either manually doing things, or waiting for one team to pick it up and understand it after another team threw it over the wall. "We are doing important stuff here, we need PEOPLE to check this at every point. Developers can't be trusted to deploy things, we have deployment EXPERTS over here to MAKE SURE it's all perfect and documented" etc etc. You've probably heard the arguments before. 
+It was pretty standard for government, everybody there thought they were doing a great job, they believed they ticked all the [ITIL](http://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library) boxes so the management were happy. Nobody worried about the little details like the fact that what was delivered never really worked well. That was put down to poor requirements specification by the "customer" and everybody ignored the fact that the time frame between being asked for something and the time it was delivered was many many months.
+
+I was labelled a dangerous heretic in that place because I suggested that way too much time was being spent either manually doing things, or waiting for another team to pick things up and understand them after they were thrown over the wall. 
+
+<blockquote>"We are doing important stuff here, we need PEOPLE to check this at every point. Developers can't be trusted to deploy things, we have deployment EXPERTS over here to MAKE SURE it's all perfect and documented" etc etc.</blockquote>
+
+You've probably heard the arguments before. 
 
 ## The day that it all went wrong ##
 
@@ -26,7 +32,7 @@ I was essentially labelled a dangerous heretic in that place because I suggested
 
 So one day, there was a BIG RELEASE going into the test environment. At about 9:30, all hell broke loose. Managers were running around in circles, phones were ringing and fingers were being pointed. **Production had gone down**!
 
-It turned out that a database schema migration script, dutifully zipped up with the release and outlined as a step in the 30 page Word Document that had been SIGNED OFF by the management, had been copied by the database operations and deployment expert and pasted into the query window of the SQL Server Management Studio.......
+It turned out that a database schema migration script, dutifully zipped up with the release and outlined as a step in the 30 page Word Document that had been SIGNED OFF by the management, had been copied by the database deployment expert and pasted into the query window of the SQL Server Management Studio.......
 
 **Which happened to be connected to the Production Database Server.**
 
@@ -44,11 +50,11 @@ The script was sent over to the deployment team so that they could get the produ
 
 **Seriously.**
 
-The system in question was offline until about 4pm that day, because although "the process" couldn't protect it from human error, but "the process" was still trusted as the only safeguard they had.
+The system in question was offline until about 4pm that day, because although "the process" couldn't protect it from human error, "the process" was still trusted as the only safeguard they had.
 
 ## Do you have a point ? ##
 
-I've done a lot of consulting and speaking about devops, automation and agile. Fairly often I'll get some management type derisively tell me that all my ideas are all well and good in the fantasy world I live in. But THEY have process, and regulation, and ITIL!
+I've done a lot of consulting and speaking about DevOps, automation and agile. Fairly often I'll get some management type derisively tell me that all my ideas are all well and good in the fantasy world I live in. But THEY have process, and regulation, and ITIL!
 
 It's an argument I can usually win.
 
