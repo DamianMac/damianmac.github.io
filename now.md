@@ -31,7 +31,7 @@ I'm also available for [speaking gigs](/speaking/) (although I've not been focus
 If you'd like to chat about any of these things, send me an email to blog at damianm.com.
 
 
-*The Now page is a fantastic idea from [Derek Sivers](http://sivers.org/) and starting to [be a thing](http://nownownow.com/).
+*The Now page is a fantastic idea from [Derek Sivers](http://sivers.org/) and starting to [be a thing](http://nownownow.com/).*
 
 
 
