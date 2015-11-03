@@ -33,6 +33,8 @@ bing_verify:
 links:
   - title: About
     url: /about/
+  - title: Now
+    url: /now/ 
   - title: Articles
     url: /articles/
   - title: Projects
