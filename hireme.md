@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /hire-me/
-title: Available for work
+title: Mission accomplished - looking for my next role
 tagline: Looking to hire a CTO or Architecture / Agile / DevOps consultant ? We may be a perfect fit.
 tags: [now, Damian Maclennan]
 modified: 17-01-2016
