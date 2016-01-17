@@ -2,7 +2,7 @@
 layout: page
 permalink: /hire-me/
 title: Available for work
-tagline: Available for work
+tagline: Looking to hire a CTO or Architecture / Agile / DevOps consultant ? We may be a perfect fit.
 tags: [now, Damian Maclennan]
 modified: 17-01-2016
 ---
@@ -20,9 +20,11 @@ So at the beginning of 2016, I'm ready for something new.
 
 I'm good at building teams and engineering practices and culture. I can identify talent, hire people, organise people and teams to get software shipped and get people working together.
 
-I get agile, I mean really get it, not just the "hey we do a morning stand up" brand of "Agile", but the real deal. Shipping software to production, solving problems and learning from it. 
+I get agile, I mean really get it, not just the "[hey we do a morning stand up](http://damianm.com/articles/doing-agile-software-development)" brand of "Agile", but the real deal. Shipping software to production, solving problems and learning from it. 
 
-Service Oriented Architecture, Microservices, distributed architecture, what ever you want to call it, I can do it. I've worked on messaging based systems for years now and know how to build architectures that scale, and help the teams to do the same. I've been working for a while now on an open source service bus library and have not only actually built "microservice architecture" that exist in production systems, but I've spoken about it, consulted on it and written about it. 
+Similarly with DevOps. After having consulted in the "agile" space and seeing the automation and collaboration required to move fast, then working exclusively on a DevOps software product for the past 15 months, I've seen the entire gamut of what people call (and what from) DevOps. 
+
+Service Oriented Architecture, Microservices, distributed architecture, what ever you want to call it, I can do it. I've worked on messaging based systems for years now and know how to build architectures that scale, and help the teams to do the same. I've been working for a while now on an open source service bus library and have not only actually built "microservice architecture" that exist in production systems, but I've spoken about it, consulted on it and [written](http://damianm.com/articles/human-benefits-of-a-microservice-architecture) about it. 
 
 Teaching, speaking, mentoring, consulting.
 This has been my bread and butter for years, I know how to understand a concept or a business problem, translate it in either direction, then explain it, teach it and help people with it.
@@ -31,7 +33,7 @@ This has been my bread and butter for years, I know how to understand a concept 
 
 I'm happy to go down either of two paths.
 
-A CTO / Head of Engineering type position where I'd be building a team or capability and responsible for software architecture. Particularly in a SaaS type app where we can get close to the customers and where real agile matters, iterating quickly and gathering feedback.
+A CTO / Head of Engineering type position where I'd be building a team or capability and responsible for software architecture. I'm particularly in a SaaS type app where we can get close to the customers and where real agile matters: iterating quickly and gathering feedback.
 
 Or consulting, if you're a consulting company looking to build a practice in the above areas I can help with that.
 
