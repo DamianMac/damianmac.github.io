@@ -7,9 +7,6 @@ tags: [now, Damian Maclennan]
 modified: 17-01-2016
 ---
 
-Trying something different here. It's been many years since I was on the job market, so I've decided to write up what I'm interested in doing, put it out into the world and see what happens next.
-
-
 After consulting with [Readify](http://readify.net/) for 6 years, and having all sorts of fun building software for companies, helping teams as well as training and mentoring teams, I joined [Octopus Deploy](http://octopus.com/) in September 2014. 
 
 My role at Octopus was to help grow the company and the capability to ship awesome features quickly. In those 15 months we grew to a team of 13 people, started shipping more regularly, got 3.0 out, followed by 3.1 and 3.2 with a bunch of smaller releases in between. By last September, we'd grown enough, the team (which is awesome) was running itself and sometimes doing public releases every day. With [Paul](http://paulstovell.com/) doing a great job of steering the product, and the rest of the team just getting stuff done, I was feeling a little unnecessary.
