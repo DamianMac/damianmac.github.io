@@ -17,7 +17,7 @@ Here's what I'm focusing on now (last updated November 2015).
 
 **Family** - My kids are currently 8 and 10, and both have a lot going on in their lives. Trying to be available for as many of their activities as possible.
 
-**Octopus Deploy** - We're shipping out major releases every couple of months now, so I help wrangle that and try to figure out what to do next. I'm also in charge of getting it in front of more people and getting more developers to use it.
+**Tatts Group** - I've just started a new role with the [Tatts Group](http://www.tattsgroup.com/) as an Engineering Manager. Tatts have started down the path of a large agile transformation and I'm helping that happen. 
 
 **Cycling** - After a year of being sick I'm coming back into fitness and training hard to be more competitive in races. 
 
