@@ -1,6 +1,6 @@
 title:            DamianM
 tagline:          Technical Musings
-description:      The musings and essays from Damian Maclennan. Consultant CTO, Agilist, Troublemaker, Dad, Cyclist, Musician
+description:      The musings and essays from Damian Maclennan. Technologist, Agilist, Troublemaker, Dad, Cyclist, Musician
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://damianm.com
 
@@ -8,8 +8,7 @@ url:              http://damianm.com
 owner:
   name:           Damian Maclennan
   avatar:         red-shoes.jpg
-  bio:            "Technologist, Agilist, Speaker, Ex Musician, Cyclist, Troublemaker, Dad. 
- CTO at Octopus Deploy."
+  bio:            "Technologist, Agilist, Speaker, Ex Musician, Cyclist, Troublemaker, Dad."
   email:          damian@damianm.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: damianm
