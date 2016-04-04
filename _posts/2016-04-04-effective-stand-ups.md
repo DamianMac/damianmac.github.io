@@ -23,7 +23,7 @@ You know what these look like.
 
 Everybody standing in a circle looking half asleep while each person stares at their shoes and rambles something like:
 
->"Yesterday I worked on the user account feature and I didn't get that finished >because I found that I didn't know xyz so I sent an email to the team and I haven't >heard back so I'm blocked on that one so I picked up the reset password feature and >I'll work on that today but I have a meeting today so I don't know how much I'll >get done on that but if I hear back from my email and that gets resolved I'll pick >that up again and maybe get that finished.....oh yeah, no impediments"
+>"Yesterday I worked on the user account feature and I didn't get that finished because I found that I didn't know xyz so I sent an email to the team and I haven't heard back so I'm blocked on that one so I picked up the reset password feature and I'll work on that today but I have a meeting today so I don't know how much I'll get done on that but if I hear back from my email and that gets resolved I'll pick >that up again and maybe get that finished.....oh yeah, no impediments"
 
 And so it goes around the team and nobody really cares.
 
@@ -47,7 +47,7 @@ Once we're all thinking about the same end goal the discussion becomes a lot mor
 
 In his talk ["Pimp My Architecture"](http://www.infoq.com/presentations/north-pimp-my-architecture), Dan North has a great metaphor which I've been using for years as an agile coach and leader. He talks about a Gridiron team in a huddle. They have a very short term goal. 
 
->"How many yards can we get towards the goal line before the next time we stop. What >can we do to make the next 20 seconds the best we can. Plays are called, the team >agrees, everybody does their part in the play and if they do it right, they regroup >again in a very short time and do it again".
+>"How many yards can we get towards the goal line before the next time we stop. What can we do to make the next 20 seconds the best we can. Plays are called, the team agrees, everybody does their part in the play and if they do it right, they regroup again in a very short time and do it again".
 
 This is what a stand-up should be.
 
