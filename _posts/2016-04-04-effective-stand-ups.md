@@ -51,7 +51,7 @@ In his talk ["Pimp My Architecture"](http://www.infoq.com/presentations/north-pi
 
 This is what a stand-up should be.
 
-##Some tips if you're struggling##
+## Some tips if you're struggling ##
 
 * Look at the work you're doing as a team. Try to look at your planning and prioritisation so people can work more on related items. If your planning can talk through a roadmap to get from where you are to where you need to be the dependencies should drive more team collaboration.
 
