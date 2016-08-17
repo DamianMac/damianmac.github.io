@@ -3,7 +3,7 @@ tagline:          Technical Musings
 description:      The musings and essays from Damian Maclennan. Technologist, Agilist, Troublemaker, Dad, Cyclist, Musician
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://damianm.com
-  
+ 
 
 # Owner/author information
 owner:
@@ -49,7 +49,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Australia/Brisbane
 future:      true
-highlighter:    pygments
+highlighter:    rouge
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
