@@ -20,7 +20,7 @@ We found that certain techniques, tools, and patterns worked particularly well f
 
 Fast forward a few years and we see people making mistakes with their architecture and patterns, particularly while trying to build microservices. Through our speaking, consulting, and product development journeys we've seen teams struggle with some of the patterns and are often unsure of how to get started.
 
-So we've decided to join forces and offer training. With the huge success over of Pluralsight over the past few years we feel there is a gap in hands-on, instructor led, classroom based training. Which is something we've all enjoyed doing so it all just makes sense.
+So we've decided to join forces and offer training. With the huge success over of Pluralsight over the past few years we feel there is a gap in hands-on, instructor led, classroom based training. That happens to be something we've all enjoyed doing so it all just makes sense to grab it.
 
 So we're kicking things off now!
 
