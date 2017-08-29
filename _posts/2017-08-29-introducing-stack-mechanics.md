@@ -14,7 +14,7 @@ I'm still keeping the day job as an Engineering Manager for Lotteries at Tatts, 
 
 With the TL;DR out of the way, it's time for the full story.
 
-As consultants, the three of us worked together alongside other talented developers and we solved problems. Usually the really hard kind, where a companies existence relied on us being able to deliver a solution quickly. These were rarely green field projects and often had the sorts of ugly realities most developers face - legacy systems, ugly integrations, and distributed systems that could fail in many ways.
+As consultants, the three of us worked together alongside other talented developers and we solved problems. Usually the really hard kind, where a company's existence relied on us being able to deliver a solution quickly. These were rarely green field projects and often had the sorts of ugly realities most developers face - legacy systems, ugly integrations, and distributed systems that could fail in many ways.
 
 We found that certain techniques, tools, and patterns worked particularly well for us in terms of getting to market quickly, allowing us to scale our teams, and building systems that were resilient and fault tolerant. Around the same time, the industry at large coined the term "microservices" which pretty well fit the style of system we had been building for our customers.
 
