@@ -34,6 +34,8 @@ In 2014 I took on the role as CTO with [Octopus Deploy](http://octopusdeploy.com
 
 By the beginning of 2016 the team had tripled in size and shipping releases regularly and I was looking for a new challenge, so took on a new role of Engineering Manager with [Tatts Group](http://www.tattsgroup.com/). 
 
+I've also recently started a new side venture, [Stack Mechanics](https://stackmechanics.com/), to offer deep dive .NET architecture and Microservices training.
+
 <div style="float: right; margin: 30px; margin-top: 0;" >
 <img alt="Damian Maclennan" src="/images/bike-path.jpg" />
 </div>

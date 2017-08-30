@@ -4,7 +4,7 @@ permalink: /now/
 title: Now
 tagline: Now
 tags: [now, Damian Maclennan]
-modified: 03-11-2015
+modified: 30-08-2017
 image:
   feature: brisbane-river.jpg
   caption: Brisbane River
@@ -15,15 +15,13 @@ I live in Brisbane, Australia. It's a great city for a young family, has fantast
 
 Here's what I'm focusing on now (last updated November 2015).
 
-**Family** - My kids are currently 8 and 10, and both have a lot going on in their lives. Trying to be available for as many of their activities as possible.
+**Family** - My kids are currently 9 and 11, and both have a lot going on in their lives. Trying to be available for as many of their activities as possible. Currently that's a whole bunch of AFL (Australian Football) and dance
 
-**Tatts Group** - I've just started a new role with the [Tatts Group](http://www.tattsgroup.com/) as an Engineering Manager. Tatts have started down the path of a large agile transformation and I'm helping that happen. 
+**Stack Mechanics** With a [couple of friends](/articles/instroducing-stack-mechanics/) I've just launched [Stack Mechanics](https://stackmechanics.com/). We aim to offer the best deep dive, workshop training in .NET architeture and Microservices.
 
-**Cycling** - After a year of being sick I'm coming back into fitness and training hard to be more competitive in races. 
+**Tatts Group** - My current full time employment is [Tatts Group](http://www.tattsgroup.com/) as an Engineering Manager. Tatts have started down the path of a large agile transformation and I'm helping that happen. 
 
-**Yoga** - Something I've dabbled in that I've started doing more of. Currently trying to practice at least 3 or 4 times a week.
-
-**Building things** - I'm picking up a couple of neglected personal projects that may one day turn into something good.
+**Cycling** - I love cycling, it's a massive passion, stress relief, and my primary exersize. I sometimes struggle with consistency, but I'm almost back at race fitness.
 
 
 I'm also available for [speaking gigs](/speaking/) (although I've not been focusing on that lately), and developer mentoring. 
