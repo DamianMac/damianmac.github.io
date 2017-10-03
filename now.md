@@ -13,7 +13,7 @@ image:
 
 I live in Brisbane, Australia. It's a great city for a young family, has fantastic weather, good cycling, and the tech scene is getting better by the day.
 
-Here's what I'm focusing on now (last updated November 2015).
+Here's what I'm focusing on now (last updated August 2017).
 
 **Family** - My kids are currently 9 and 11, and both have a lot going on in their lives. Trying to be available for as many of their activities as possible. Currently that's a whole bunch of AFL (Australian Football) and dance
 
