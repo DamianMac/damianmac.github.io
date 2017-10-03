@@ -13,6 +13,6 @@ Open to anybody in the Brisbane tech industry who rides road bikes, we do a mont
 
 Info on the next ride will be on Twitter [@rollcallbne](https://twitter.com/rollcallbne).
 
-<img src="./images/mtgravatt.jpg" alt="Riding in Brisbane" />
+<img src="../images/mtgravatt.jpg" alt="Riding in Brisbane" />
 
 
