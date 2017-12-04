@@ -21,7 +21,7 @@ Here's what I'm focusing on now (last updated August 2017).
 
 **Tatts Group** - My current full time employment is [Tatts Group](http://www.tattsgroup.com/) as an Engineering Manager. Tatts have started down the path of a large agile transformation and I'm helping that happen. 
 
-**Cycling** - I love cycling, it's a massive passion, stress relief, and my primary exersize. I sometimes struggle with consistency, but I'm almost back at race fitness.
+**Cycling** - I love cycling, it's a massive passion, stress relief, and my primary exercise. I sometimes struggle with consistency, but I'm almost back at race fitness.
 
 
 I'm also available for [speaking gigs](/speaking/) (although I've not been focusing on that lately), and developer mentoring. 
