@@ -48,13 +48,13 @@ With our experience in the software industry, we know that writing code is only 
 
 With the course we were reminded that turning up and talking about code is only a small part of the job, and that we have a renewed respect for event managers (having played this role ourselves). 
 
-If you're doing something like this, as well as finding and booking venues, venue runsheets and requrements, there is also work organising ticket sales, talking to people about dietary requirements and booking catering, buying workshop supplies, and a whole list of other small activities.
+If you're doing something like this, as well as finding and booking venues, venue runsheets and tech requirements, there is also work organising ticket sales, talking to people about dietary requirements and booking catering, buying workshop supplies, and a whole list of other small activities.
 
 <img src="/postimages/stackmechanics/foyer.jpg" alt="It's all happening!" width="500" />
 
 ## Course Structure
 
-We had an agenda planned with plenty of content options and a number of contingency plans in place. Tthis served us well, as at end of the first day we did adopted one of those contingency plans. We'd gone in with too much background tutorial content. The initial idea was that we'd introduce concepts and then build on them. While this was fine for most of our participants, we missed the mark a little for others.
+We had an agenda planned with plenty of content options and a number of contingency plans in place. This served us well, as at end of the first day we adopted one of those contingency plans. We'd gone in with too much background tutorial content. The initial idea was that we'd introduce concepts and then build on them. While this was fine for most of our participants, we missed the mark a little for others.
 
 On day two we covered less tutorial than we'd originally planned, but broke out into a couple of groups discussing from a voted list of "parking lot" topics and had the groups report back what they'd learned through discussion or experiment. I think this worked well, but felt a little disorganised. Part of that was inevitable given that, at one time, we were running three different streams of content based on interest, but we could have made it a little easier for ourselves nonetheless.
 
