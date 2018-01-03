@@ -15,11 +15,11 @@ I live in Brisbane, Australia. It's a great city for a young family, has fantast
 
 Here's what I'm focusing on now (last updated August 2017).
 
-**Family** - My kids are currently 9 and 11, and both have a lot going on in their lives. Trying to be available for as many of their activities as possible. Currently that's a whole bunch of AFL (Australian Football) and dance
+**Work** - Actually this one isn't announced just yet.
+
+**Family** - My kids are currently 10 and 12, and both have a lot going on in their lives. Trying to be available for as many of their activities as possible. Currently that's a whole bunch of AFL (Australian Football) and dance
 
 **Stack Mechanics** With a [couple of friends](/articles/introducing-stack-mechanics) I've just launched [Stack Mechanics](https://stackmechanics.com/). We aim to offer the best deep dive, workshop training in .NET architeture and Microservices.
-
-**Tatts Group** - My current full time employment is [Tatts Group](http://www.tattsgroup.com/) as an Engineering Manager. Tatts have started down the path of a large agile transformation and I'm helping that happen. 
 
 **Cycling** - I love cycling, it's a massive passion, stress relief, and my primary exersize. I sometimes struggle with consistency, but I'm almost back at race fitness.
 
