@@ -9,7 +9,7 @@ url:              http://damianm.com
 owner:
   name:           Damian Maclennan
   avatar:         red-shoes.jpg
-  bio:            "Technologist, Agilist, Speaker, Ex Musician, Cyclist, Troublemaker, Dad. Engineering Manager at Tatts Group"
+  bio:            "Technologist, Agilist, Speaker, Ex Musician, Cyclist, Troublemaker, Dad. CTO"
   email:          damian@damianm.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: damianm
@@ -43,7 +43,8 @@ links:
     url: /speaking/
   - title: Cycling
     url: /cycling/
-
+  - title: Roll Call BNE
+    url: /rollcallbne/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
