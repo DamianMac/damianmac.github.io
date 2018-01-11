@@ -13,10 +13,9 @@ Open to anybody in the Brisbane tech industry who rides road bikes, we do a mont
 
 We're on [Twitter](https://twitter.com/rollcallbne) and [Instagram](https://instagram.com/rollcallbne) (both @rollcallbne) for the latest info and pics!
 
+We leave on the first Thursday of the month from [Espresso Garage](https://goo.gl/maps/UqUvD2c1gU72) in Southbank at 5:30am. We'll be back at Espresso Garage for a coffee shortly after 6:30.
 
-The next ride will be Thursday the 11th of January leaving [Espresso Garage](https://goo.gl/maps/UqUvD2c1gU72) in Southbank at 5:30am. We'll be back at Espresso Garage for a coffee shortly after 6:30.
-
-After January, we do the first Thursday of every month. So upcoming dates are:
+So upcoming dates are:
 
 *   Thursday 1st Feb
 *   Thursday 1st March
