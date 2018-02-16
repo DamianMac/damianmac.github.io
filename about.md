@@ -26,7 +26,7 @@ Thanks for stopping by!
 
 
 
-I am a technologist, [CTO](/new-year-new-career), [cyclist](/cycling), semi ex-musician and father of two living in Brisbane Australia.
+I am a technologist, [CTO](/articles/new-year-new-career), [cyclist](/cycling), semi ex-musician and father of two living in Brisbane Australia.
 
 I’ve been made technology my career for over fifteen years. I’ve spent a lot of time working in web development agencies, as a Solutions Architect working in the digial media management and content delivery field, a stint in the non profit world, a whole lot of consulting, CTO of [Octopus Deploy](http://octopusdeploy.com/), change agent in a big enterprise, and currently back in startup land.
 
