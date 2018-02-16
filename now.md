@@ -13,11 +13,11 @@ image:
 
 I live in Brisbane, Australia. It's a great city for a young family, has fantastic weather, good cycling, and the tech scene is getting better by the day.
 
-Here's what I'm focusing on now (last updated August 2017).
+Here's what I'm focusing on now (last updated Feb 2018).
 
-**Work** - Actually this one isn't announced just yet.
+**Work** - CTO of [DCC Jobs](https://www.dccjobs.com/). A job board for women, heavily in startup mode at the moment so head down writing a lot of code, hiring, setting up infrastucture.
 
-**Family** - My kids are currently 10 and 12, and both have a lot going on in their lives. Trying to be available for as many of their activities as possible. Currently that's a whole bunch of AFL (Australian Football) and dance
+**Family** - My kids are currently 10 and 12, and both have a lot going on in their lives. Trying to be available for as many of their activities as possible. Currently that's a whole bunch of AFL (Australian Football) and dance.
 
 **Stack Mechanics** With a [couple of friends](/articles/introducing-stack-mechanics) I've just launched [Stack Mechanics](https://stackmechanics.com/). We aim to offer the best deep dive, workshop training in .NET architeture and Microservices.
 

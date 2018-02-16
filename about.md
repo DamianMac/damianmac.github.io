@@ -25,24 +25,17 @@ image:
 Thanks for stopping by!
 
 
-I am a technologist, [cyclist](/cycling), semi ex-musician and father of two. I currently live in Brisbane, Australia. After spending most of my life in Sydney, we moved north in October 2009.
 
+I am a technologist, [CTO](/new-year-new-career), [cyclist](/cycling), semi ex-musician and father of two living in Brisbane Australia.
 
-I’ve been made technology my career for over fifteen years. I’ve spent a lot of time working in web development agencies, as a Solutions Architect working in the digial media management and content delivery field, a stint in the non profit world, independent consultant and nearly 6 years as a Principal Consultant with [Readify](http://www.readify.net/).
+I’ve been made technology my career for over fifteen years. I’ve spent a lot of time working in web development agencies, as a Solutions Architect working in the digial media management and content delivery field, a stint in the non profit world, a whole lot of consulting, CTO of [Octopus Deploy](http://octopusdeploy.com/), change agent in a big enterprise, and currently back in startup land.
 
-In 2014 I took on the role as CTO with [Octopus Deploy](http://octopusdeploy.com/) to help grow the product and the team behind it. 
-
-By the beginning of 2016 the team had tripled in size and shipping releases regularly and I was looking for a new challenge, so took on a new role of Engineering Manager with [Tatts Group](http://www.tattsgroup.com/). 
-
-I've also recently started a new side venture, [Stack Mechanics](https://stackmechanics.com/), to offer deep dive .NET architecture and Microservices training.
+I'm also the co-founder of [Stack Mechanics](https://stackmechanics.com/), offering deep dive .NET architecture and Microservices training.
 
 <div style="float: right; margin: 30px; margin-top: 0;" >
 <img alt="Damian Maclennan" src="/images/bike-path.jpg" />
 </div>
  
-
-
-
 Getting in Touch
 -------
 
