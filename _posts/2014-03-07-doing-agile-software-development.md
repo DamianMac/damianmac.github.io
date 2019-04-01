@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Doing Agile software development. Why it's not going to help.
 description: "The value in agile software development is in releasing software to users more frequently and learning in order to build the right thing. The practices help us get there, but aren't the end goal in itself."
 modified: 2014-03-07

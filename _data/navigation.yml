@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Bio"
+    url: /about/
+  - title: "Consulting"
+    url: /consulting
+  - title: "Training"
+    url: /training
+  - title: "Blog"
+    url: /blog
+  - title: "Roll Call BNE"
+    url: /rollcallbne
+
+  

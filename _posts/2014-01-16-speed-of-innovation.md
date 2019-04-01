@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Speed of Innovation
 description: "After spending time working with a lot of companies building software I have a lot of ideas on what makes the good ones successful and it all comes down to how fast they can innovate. This is going to be a major theme here for a while."
 modified: 2014-01-16

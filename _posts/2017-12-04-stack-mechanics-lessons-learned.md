@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Lessons learned teaching microservices architecture to a room full of smart people
 description: With the first Stack Mechanics course behind us we look at what went well, and what we can learn to make the next ones even better!
 modified: 2017-12-04
@@ -24,7 +24,7 @@ That's a lot to cover in three days with a room full of people. but by the end o
 
 We've had great feedback and everybody went away with new knowledge and techniques they could apply in their work.
 
-<img src="/postimages/stackmechanics/coding.jpg" alt="Recommendations Engine Team at Work" width="500" />
+<img src="/assets/images/stackmechanics/coding.jpg" alt="Recommendations Engine Team at Work" width="500" />
 
 ## The Venue
 
@@ -32,7 +32,7 @@ We decided early on that we wanted to be different from other training organisat
 
 [Brisbane Powerhouse](https://brisbanepowerhouse.org/) ticked the boxes for us, with its imposing size, funky theatre vibe, graffiti, and awesome river views. The Rooftop Terrace is a great room for something like this, with its open space, and huge balcony for breakout conversations.
 
-<img src="/postimages/stackmechanics/bph.jpg" alt="Brisbane Powerhouse" width="500" />
+<img src="/assets/images/stackmechanics/bph.jpg" alt="Brisbane Powerhouse" width="500" />
 
 Somewhat unfortunately we had a few days of miserable weather and cold winds, so we couldn't use the outside space as much as we'd anticipated.
 
@@ -40,7 +40,7 @@ Some lessons on this one: while the venue was cool and gave us the vibe we wante
 
 We also learned that choosing catering options for a range of people is super difficult, but you should always avoid pumpkin and polenta muffins!
 
-<img src="/postimages/stackmechanics/brainfunk.jpg" alt="Funky Venue" width="500" />
+<img src="/assets/images/stackmechanics/brainfunk.jpg" alt="Funky Venue" width="500" />
 
 ## Getting There
 
@@ -50,7 +50,7 @@ With the course we were reminded that turning up and talking about code is only 
 
 If you're doing something like this, as well as finding and booking venues, venue runsheets and tech requirements, there is also work organising ticket sales, talking to people about dietary requirements and booking catering, buying workshop supplies, and a whole list of other small activities.
 
-<img src="/postimages/stackmechanics/foyer.jpg" alt="It's all happening!" width="500" />
+<img src="/assets/images/stackmechanics/foyer.jpg" alt="It's all happening!" width="500" />
 
 ## Course Structure
 
@@ -58,13 +58,13 @@ We had an agenda planned with plenty of content options and a number of continge
 
 On day two we covered less tutorial than we'd originally planned, but broke out into a couple of groups discussing from a voted list of "parking lot" topics and had the groups report back what they'd learned through discussion or experiment. I think this worked well, but felt a little disorganised. Part of that was inevitable given that, at one time, we were running three different streams of content based on interest, but we could have made it a little easier for ourselves nonetheless.
 
-<img src="/postimages/stackmechanics/pitching.jpg" alt="Pitching ideas" width="500" />
+<img src="/assets/images/stackmechanics/pitching.jpg" alt="Pitching ideas" width="500" />
 
 Day three was the most fun, where we had people "pitch" ideas they wanted to see running on our microservice architecture, then group up on those features and built them during the day. We finished up the day with a showcase of what they'd built.
 
 Seeing people have an idea in the morning, and ship it in a day is always a great thing! Having a pre-prepared CI/CD pipeline available to everyone was invaluable in this space as getting to production was literally a matter of `git push` and an entire environment was spun up and deployed.
 
-<img src="/postimages/stackmechanics/presenting.jpg" alt="Presenting a new microservice" width="500" />
+<img src="/assets/images/stackmechanics/presenting.jpg" alt="Presenting a new microservice" width="500" />
 
 I think the biggest lesson for us here is that we'd get people building code earlier, and dive deep on some of the theory as needed, rather than setting up the foundations first. It's always a fine balance and one we'll tweak, as the foundations are arguably less interesting but much more important.
 

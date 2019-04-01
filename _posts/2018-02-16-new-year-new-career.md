@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: New Year, new career
 description: About my new role, CTO at DCC Jobs. Two years trying to drive change in a large enterprise was more than enough!
 modified: 2018-02-16

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Pomodoro Technique - Staying focussed
 description: "A post that appeared on my old blog that I thought still had enough merit to bring across.
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Introducing Stack Mechanics - Deep Dive .NET Microservices training
 description: I'm super excited to make this announcement. I've teamed up with my good friends Nick Blumhardt and Andrew Harcourt to offer deep dive training in .NET software and microservices architecture under the banner of Stack Mechanics."
 modified: 2017-08-29

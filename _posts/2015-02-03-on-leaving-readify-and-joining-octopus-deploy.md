@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: On leaving Readify and joining Octopus Deploy
 description: "This post is long overdue, but in 2014 I moved on from working as a consultant with Readify to take on a new role as CTO with Octopus Deploy. Some thoughts on my time as a consultant and why the change is so refreshing."
 modified: 2015-02-03
