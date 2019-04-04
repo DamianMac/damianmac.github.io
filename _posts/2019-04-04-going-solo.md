@@ -13,7 +13,7 @@ I enjoy it, I’ve missed it, and I have a lot of lessons I’ve learned and kno
 
 The difference is I’m doing it under my own name.
 
-I’ve been so inspired by my friends in the Brisbane startup community, and people like Trish Khoo doing solo consulting. The FOMO got the better of me and I’m ready to do it for myself.
+I’ve been so inspired by my friends in the Brisbane startup community, and people like [Trish Khoo](https://trishkhoo.com/) doing solo consulting. The FOMO got the better of me and I’m ready to do it for myself.
 
 I’m calling what I do a [“Consultant CTO”](/consulting).
 
