@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 permalink: /speaking/
 title: Speaking Engagements
 tagline: Speaking Engagements
