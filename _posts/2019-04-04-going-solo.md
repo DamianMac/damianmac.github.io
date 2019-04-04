@@ -25,7 +25,7 @@ I also want to a lot with what I call “agile engineering”, helping teams shi
 
 The other big thing I’m going to move into is public training.
 
-My first course is going to be on the 20th of May. It’s a half day workshop at Fishburners called [Test Driven Development Essentials](/training/test-driven-development-essentials/).
+My first course is going to be on the 20th of May. It’s a half day workshop at Fishburners called [Test Driven Development Essentials](/training/tdd-essentials/).
 
 I’m going to cover how to get started doing TDD, some techniques and patterns, some tools like mocking frameworks to help you write better test code, and go into how writing better tests will help you with a better designed system.
 
