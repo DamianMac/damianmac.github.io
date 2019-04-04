@@ -17,11 +17,13 @@ I’ve been so inspired by my friends in the Brisbane startup community, and peo
 
 I’m calling what I do a [“Consultant CTO”](/consulting).
 
-That’s a few things, I’m offering “CTO as a service” for smaller companies, where I can help them with guidance on a part time basis, or I can fill the gap an interim CTO for companies growing or changing, and looking for somebody more permanent.
+That’s a few things, I’m offering “CTO as a service” for smaller companies, where I can help them with guidance on a part time basis, or I can fill the gap as an interim CTO for companies growing or changing, and looking for somebody more permanent.
 
-I’m also doing architecture strategy and design, particularly in the microservices space. I’ve got a lot to offer in the DevOps space, both from	the technical side around CI / CD / Automation but also the process and working across teams to help set up process.
+I also do architecture strategy and design, particularly in the microservices space. I'm very interested in helping teams build greenfield systems and helping them avoid common pitfalls, but also I've worked with a large number of legacy system replacements and can help steer companies in a safe and effective direction.
 
-I also want to a lot with what I call “agile engineering”, helping teams ship and iterate faster by helping with architecture and design patterns, and techniques like Test Driven Development.
+I’ve got a lot to offer in the DevOps space, both from	the technical side around CI / CD / Automation but also the process and working across teams to help set up process.
+
+I also want to work a lot with what I call “agile engineering”, helping teams ship and iterate faster by helping with agile architectures and design patterns, and techniques like Test Driven Development.
 
 The other big thing I’m going to move into is public training.
 
