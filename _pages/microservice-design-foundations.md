@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /training/microservice-design-foundations
+permalink: /training/microservice-design-foundations/
 title: Microservice Design Foundations
 tagline: Microservice Design Foundations
 author_profile: true

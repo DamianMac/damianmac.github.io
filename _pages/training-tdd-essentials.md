@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /training/tdd-essentials
+permalink: /training/tdd-essentials/
 title: Test Driven Development Essentials
 tagline: Test Driven Development Essentials
 author_profile: true
