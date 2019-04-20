@@ -5,7 +5,7 @@ modified: 2019-04-19
 category: blog
 ---
 
-The TL;DR; of it, is I've just released an open source .NET Core Client for [CouchDB](http://couchdb.apache.org/) called [GitHub](https://github.com/DamianMac/Hammock). It's on Nuget as `Hammock.Core` and ready for your relaxing document storage needs.
+The TL;DR; of it, is I've just released an open source .NET Core Client for [CouchDB](http://couchdb.apache.org/) called [Hammock](https://github.com/DamianMac/Hammock). It's on Nuget as `Hammock.Core` and ready for your relaxing document storage needs.
 
 The longer story....
 
