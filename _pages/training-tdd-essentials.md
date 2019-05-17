@@ -31,5 +31,4 @@ Brisbane 20th May 2019
 
 If you can't make this date, but would like to come along to a future event, sign up below and I'll let you know.
 
-<div class="createsend-button" style="height:27px;display:inline-block;" data-listid="t/B9/6E4/DB9/9E11336FB148A8B5">
-</div><script type="text/javascript">(function () { var e = document.createElement('script'); e.type = 'text/javascript'; e.async = true; e.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://btn.createsend1.com/js/sb.min.js?v=3'; e.className = 'createsend-script'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s); })();</script>
+{% include mailchimp.html %}
