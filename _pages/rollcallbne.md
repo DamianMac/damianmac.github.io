@@ -14,19 +14,19 @@ We're on [Twitter](https://twitter.com/rollcallbne) and [Instagram](https://inst
 
 We leave on the first Thursday of the month from [Espresso Garage](https://goo.gl/maps/UqUvD2c1gU72) in Southbank at 5:30am. We're back in South Brisbane for a coffee around 6:30.
 
-So upcoming dates are:
+So upcoming 2020 dates are:
 
-*   Thursday 7th Feb
-*   Thursday 1st March
-*   Thursday 4th April
-*   Thursday 2nd May
-*   Thursday 6th June
-*   Thursday 4th July
-*   Thursday 1st August
-*   Thursday 5th September
-*   Thursday 3rd October
-*   Thursday 7th November
-*   Thursday 5th December
+
+*   Thursday 5th March
+*   Thursday 2nd April
+*   Thursday 7th May
+*   Thursday 4th June
+*   Thursday 2nd July
+*   Thursday 6th August
+*   Thursday 3rd September
+*   Thursday 1st October
+*   Thursday 5th November
+*   Thursday 3rd December
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">First ride <a href="https://t.co/FpmyYnHv21">pic.twitter.com/FpmyYnHv21</a></p>&mdash; Roll Call Brisbane (@rollcallbne) <a href="https://twitter.com/rollcallbne/status/915695830790660096?ref_src=twsrc%5Etfw">October 4, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
