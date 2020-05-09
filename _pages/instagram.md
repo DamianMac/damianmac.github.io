@@ -9,7 +9,7 @@ header:
 ---
 
 
-Thanks for stopping by!
+HI!
 
 If you've found this link, chances are you've found me on Instagram. Which means you've probably seen a bunch of cycling photos, or maybe a coffee or two.
 
