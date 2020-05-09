@@ -15,8 +15,6 @@ In 2019 I'm beginning to run some hands on, workshop style, courses on topics th
 
 A half day course to get you up and running with TDD, learn some techniques and tips, and learn how to design better software though testing [Read More](/training/tdd-essentials/).
 
-Next available in [Brisbane - May 20](https://www.eventbrite.com/e/test-driven-development-essentials-with-damian-maclennan-tickets-59809495812)
-
 
 ### Microservice Design Foundations
 
